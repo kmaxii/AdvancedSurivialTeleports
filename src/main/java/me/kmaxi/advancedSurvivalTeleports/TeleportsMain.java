@@ -6,6 +6,7 @@ public class TeleportsMain extends JavaPlugin {
 
     @Override
     public void onEnable(){
+        //Test line of code
     }
 
     @Override
